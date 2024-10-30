@@ -1,13 +1,12 @@
-# desafio-logica-inicial
-
 # 1️⃣ Desafio Classificador de nível de Herói do Digital Innovation One.
 
-**O Que deve ser utilizado**
+**O que deve ser utilizado:**
 
 - Variáveis
 - Operadores
 - Laços de repetição
 - Estruturas de decisões
+  
 
 ## Objetivo
 
@@ -21,6 +20,7 @@ Crie uma variável para armazenar o nome e a quantidade de experiência (XP) de 
 - Se XP for entre 8.001 e 9.000 = Ascendente
 - Se XP for entre 9.001 e 10.000= Imortal
 - Se XP for maior ou igual a 10.001 = Radiante
+  
 
 
 ## Saída
@@ -28,5 +28,7 @@ Crie uma variável para armazenar o nome e a quantidade de experiência (XP) de 
 Ao final deve se exibir uma mensagem:
 "O Herói de nome **{nome}** está no nível de **{nivel}**"
 
- 
-Bons estudos 😉
+
+
+ ## 💻 Linguagem que utilizei no projeto:
+- JavaScript
