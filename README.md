@@ -30,5 +30,5 @@ Ao final deve se exibir uma mensagem:
 
 
 
- ## 💻 Linguagem que utilizei no projeto:
+ **💻 Linguagem utilizada no projeto:**
 - JavaScript
