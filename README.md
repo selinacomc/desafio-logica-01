@@ -27,8 +27,3 @@ Crie uma variável para armazenar o nome e a quantidade de experiência (XP) de 
 
 Ao final deve se exibir uma mensagem:
 "O Herói de nome **{nome}** está no nível de **{nivel}**"
-
-
-
- **💻 Linguagem utilizada no projeto:**
-- JavaScript
